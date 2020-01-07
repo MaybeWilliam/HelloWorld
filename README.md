@@ -1,3 +1,4 @@
-# HelloWorld
-HelloWorld
-Wish me Luck!
+# Hello Universe!
+
+print('Hello Universe!')
+print('Good Luck!')
